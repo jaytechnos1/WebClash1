@@ -5,7 +5,7 @@ const properties = {
     //this empty if connecting to the 
     //host directly.
     
-    address: "https://http://46.11.11.116/",
+    address: "https://46.11.11.116/",
     
     //The port the server is running on
     
