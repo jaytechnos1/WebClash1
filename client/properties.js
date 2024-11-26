@@ -9,7 +9,7 @@ const properties = {
     
     //The port the server is running on
     
-    port: 5315,
+    port: 10000,
 
     /*     Graphics Settings        */
     
