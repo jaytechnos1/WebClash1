@@ -1,7 +1,7 @@
 {
     "clientLocation": "../client",
     "accessAddress": "",
-    "allowExternalClients": false,
+    "allowExternalClients": true,
     
     "maxLoginAttempts": 8,
     "loginTimeout": 5,
