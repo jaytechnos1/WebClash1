@@ -5,7 +5,7 @@
     
     "maxLoginAttempts": 8,
     "loginTimeout": 5,
-    "port": 5315,
+    "port": 10000,
     "maxPlayers": 0,
 
     "serverName": "WebClash Server",
