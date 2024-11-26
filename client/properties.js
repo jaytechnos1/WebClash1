@@ -5,7 +5,7 @@ const properties = {
     //this empty if connecting to the 
     //host directly.
     
-    address: "",
+    address: "https://webclash1-1.onrender.com",
     
     //The port the server is running on
     
